@@ -1,1 +1,1 @@
-# .github
+[lga.team](https://github.com/lga-team) 的组织主页与社区健康文件仓库。
